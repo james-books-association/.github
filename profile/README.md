@@ -1,4 +1,4 @@
-## Sorry if there are any errors what so ever. I am still new to HTML.
+## Sorry if there are any errors what so ever.
 
 <!--
 
